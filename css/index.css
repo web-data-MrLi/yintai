@@ -136,7 +136,7 @@
 .s32 a:hover{
        border-bottom:1px solid blue;
        }
-/*ä¸Šé¢æ˜¯å¤´éƒ¨*/
+/*ÉÏÃæÊÇÍ·²¿*/
  .m1{
 	 width:100%;
 	 height:81px;
@@ -147,7 +147,7 @@
 	  width:100%;
 	  display:inline-block;
 	}
-/*ä¸Šé¢å¤´éƒ¨ä¸‹*/
+/*ÉÏÃæÍ·²¿ÏÂ*/
 .f1{
 	width:100%;
     height:157px;
@@ -222,7 +222,7 @@
 .f9 span{ color:#cccccc;}
 .f1 a:hover{color:#25b2fe;}
 .f1 a{color:#666666;}
- /*ä¸‹é¢banå›¾*/
+ /*ÏÂÃæbanÍ¼*/
        /*.g1{
 	       width:100%;
 	       height:470px;
@@ -1097,7 +1097,7 @@
      top:0px;
 	 left:990px;
 	 }
-/*bané¢*/
+/*banÃæ*/
 
 .u1{width:100%;
     height:419px;
@@ -1215,7 +1215,7 @@
   
 
 
- /*--ä¸‹ä¸€ä¸ª--*/
+ /*--ÏÂÒ»¸ö--*/
 .z1{width:1190px;
     height:81px;
     margin-left:auto;						
@@ -1224,7 +1224,7 @@
  .z1 img{
 	   float:left;
        margin-top:35px;}
-	  /*--å›¾ç‰‡ä¸€*/
+	  /*--Í¼Æ¬Ò»*/
 .x1{
    width:1350px;
    height:689px;
@@ -1426,7 +1426,7 @@
 	  margin-left:auto;						
 	  margin-right:auto;
 	  margin-top:25px;}
-/*æ—¶å°š*/
+/*Ê±ÉĞ*/
 .b1{
     width:100%;
     height:425px;
@@ -1726,7 +1726,7 @@ background-position:0 55px;
 .b1 a{
   color:#5b5454;
 }
-/*--æ½®æµå¥³è£…--*/
+/*--³±Á÷Å®×°--*/
 .a1{
 	   width:100%;
 	   height:425px;
@@ -1912,7 +1912,7 @@ background-position:0 55px;
 .a1 a{
       color:#5b5454;
 		}
-/*--æ½®æµç”·è£…--*/
+/*--³±Á÷ÄĞ×°--*/
  .c1{
     width:100%;
     height:425px;
@@ -2098,7 +2098,7 @@ background-position:0 55px;
 		   }
 .c1 a{
 	 color:#5b5454;}
-  /*--æ—¶å°šé‹--*/
+  /*--Ê±ÉĞĞ¬--*/
 .d1{
    width:100%;
    height:425px;
@@ -2284,7 +2284,7 @@ background-position:0 55px;
 	   }
 .d1 a{
      color:#5b5454;}
-   /*--æ—…ç®±--*/
+   /*--ÂÃÏä--*/
 .y1{
    width:100%;
    height:425px;
@@ -2466,7 +2466,7 @@ background-position:0 55px;
 
 .y1 a{
 	color:#5b5454;}
-   /*--ç¾å®¹æŠ¤è‚¤--*/
+   /*--ÃÀÈİ»¤·ô--*/
 .r1{
    width:100%;
    height:425px;
@@ -2650,7 +2650,7 @@ background-position:0 55px;
 		 }
 .r1 a{
     color:#5b5454;}
- /*--è¿åŠ¨é‹å­--*/
+ /*--ÔË¶¯Ğ¬×Ó--*/
  .li1{
 	   width:100%;
 	   height:425px;
@@ -2824,7 +2824,7 @@ background-position:0 55px;
 .li1 a{
   color:#5b5454;
 }
-  /*--å†…è¡£é…é¥°--*/
+  /*--ÄÚÒÂÅäÊÎ--*/
   .l1{
 	   width:100%;
 	   height:425px;
@@ -3003,7 +3003,7 @@ background-position:0 55px;
 .l1 a{
   color:#5b5454;
 }
-/*--å¯çˆ±å„¿ç«¥--*/
+/*--¿É°®¶ùÍ¯--*/
 .h1{
    width:100%;
    height:425px;
@@ -3193,7 +3193,7 @@ background-position:0 55px;
 
 .h1 a{
   color:#5b5454;}
-/*æœ€å*/
+/*×îºó*/
 .k1{
    width:100%;
    height:167px;
@@ -3236,7 +3236,7 @@ background-position:0 55px;
 	   margin-top:8px;
 	   float:left;
 	    }
- /*æœ€å1*/
+ /*×îºó1*/
 .o1{
    width:100%;
    height:91px;
@@ -3297,7 +3297,7 @@ background-position:0 55px;
 	   margin-left:3px;						
 	   margin-top:3px;
 	   float:left; }
-/*å°¾éƒ¨*/
+/*Î²²¿*/
 .va{
    width:100%;
    height:197px;
